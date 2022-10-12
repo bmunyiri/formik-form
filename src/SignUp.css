@@ -1,0 +1,31 @@
+
+form{
+    padding-top :4rem;
+    padding-bottom: 4rem;
+    height: 200px;
+    width:300px ;
+    background-color: white;
+}
+.input-container{
+    text-align: right;
+
+}
+input {
+    margin-top: 0.5rem;
+    width: 80%;
+  }
+
+
+p {
+    margin: 0;
+    margin-bottom:0.25rem ;
+    color: red;
+    font-size: 00.5rem;
+}
+button {
+  width:80%;
+}
+
+::-webkit-input-placeholder {
+    text-align: center;
+}
